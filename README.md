@@ -14,3 +14,6 @@ compatiable with open source licenses such as GPL2.
  See gnu.org for information on the glp2 license.
  https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
  See also https://openarena.fandom.com/wiki/DeveloperFAQ#What_about_licensing.3F
+ 
+ # TO DO
+ Anything else i forgot?
