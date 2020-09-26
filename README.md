@@ -11,6 +11,10 @@ compatiable with open source licenses such as GPL2.
  I'am in no way affiliated with the open arena team and this so far is a one man passion 
  project to update and keep open arena alive.
  
+ # How To Install
+ Download The OARPakFiles.zip unzip the folder and then place the .pak files inside your
+ baseoa folder be sure to keep back up's of your open arena baseoa folder before updateing!
+ 
  # TO DO
  Anything else i forgot? im sure i have forgot something if you notice please let me know!
  
